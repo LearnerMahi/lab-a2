@@ -1,6 +1,4 @@
-public interface Shape {
-    void draw();
-}
+
 
 class Rectangle implements Shape {
     @Override
